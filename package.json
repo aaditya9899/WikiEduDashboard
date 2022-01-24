@@ -109,8 +109,8 @@
     "vinyl-source-stream": "^2.0.0",
     "webpack": "^4.44.1",
     "webpack-bundle-analyzer": "^3.8.0",
-    "webpack-dev-server": "^3.10.3",
-    "webpack-exclude-assets-plugin": "^0.1.1",
+    "webpack-dev-server": "^4.7.3",
+    "webpack-exclude-assets-plugin": "git+https://github.com/klaytonfaria/webpack-exclude-assets-plugin.git#02ef253c06999682e47090e59433f76f50ded134",
     "webpack-manifest-plugin": "2.2.0",
     "webpack-rtl-plugin": "^2.0.0",
     "wnumb": "^1.2.0"
